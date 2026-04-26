@@ -108,4 +108,4 @@ Feel free to fork, improve, and contribute to the project!
 
 ## 📄 License
 
-This project is licensed under Ronit Vats, Chinmay Siwach, Anmol Sharma and SM Jeevan
+This project is licensed under Ronit Vats, Chinmay Siwach, Anmol Sharma and SM Jeevan.
