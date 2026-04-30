@@ -96,7 +96,6 @@ Buzzly-Self prioritizes user safety by:
 ## 📷 Demo
 
 🔗 Live App: [https://buzzly-self.vercel.app/](https://buzzly-self.vercel.app/)
-🔗 GitHub Repo: [https://github.com/AryanAyyu/Buzzly](https://github.com/ronittttt/Buzzly_app.git)
 
 ## 👨‍💻 Author
 
